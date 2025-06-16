@@ -1,17 +1,15 @@
-<h1 align="center">Hi, I'm Ridho 👋</h1>
+<h1 align="center">Hi, I'm L
 <p align="center">
-  🚀 Developer | 💻 Tech Enthusiast | 🧠 Lifelong Learner
+  🚀 Developer | 💻 Tech Enthusiast
 </p>
 
 ---
 
 ### 🧾 About Me
-- 🔭 I’m currently working on: **Custom Android Tools & Game Hacking**
-- 🌱 I’m learning: **System Programming**, **Kernel Internals**, and **WebAssembly**
-- 👯 I’m looking to collaborate on: **Open-source utility tools**
-- 💬 Ask me about: **C, Shell, Rooting, Reverse Engineering**
-- 📫 How to reach me: [Telegram](https://t.me/yourusername) | [Twitter](https://twitter.com/yourusername)
-- 🧠 Fun fact: I break things just to rebuild them better.
+- 🔭 I’m currently working on: **Custom Android Tools, And Backend website**
+- 🌱 I’m learning: **Backend Programing**, **Low-level System Behavior**, and **Web Developming**
+- 📫 How to reach me: [Telegram](https://t.me/cementerydrivee)
+- 🧠 Fun fact: i like batman.
 
 ---
 
@@ -28,8 +26,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=notluciferre&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notluciferre&theme=radical" width="47%" />
 </p>
 
 ---
@@ -37,18 +35,18 @@
 ### 🚧 My Projects
 | Project | Description | Status |
 |--------|-------------|--------|
-| 🔐 `reLink` | Telegram bot for managing shared keys | 🧪 In Progress |
-| 🧠 `memPatch` | Android memory patching utility (C++) | ✅ Done |
-| ⚙️ `lzoX` | LZO-based compressor/decompressor | 🧪 Prototype |
+| ⚙️ `Atlas` | External cheat for pubg mobile | ✅ Done |
+| 🧠 `reSecure` | Shell script encryptor | ✅ Done |
+| 🔐 `Delta` | Android tools kernel manager | 🧪 In Progress |
+| 🔐 `Flare-OS` | Android Custom ROM | 🔜 (lel) |
 
 ---
 
-### 🤝 Let's Connect!
+### 🤝 Found me in
 <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_  
-> — *Cory House*
+> _"People think im hiding in shadow, but im the shadow."_  
+> — *Robert Pattinson*
 
