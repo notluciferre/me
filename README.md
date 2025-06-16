@@ -35,10 +35,10 @@
 ### 🚧 My Projects
 | Project | Description | Status |
 |--------|-------------|--------|
-| ⚙️ `Atlas` | External cheat for pubg mobile | ✅ Done |
-| 🧠 `reSecure` | Shell script encryptor | ✅ Done |
-| 🔐 `Delta` | Android tools kernel manager | 🧪 In Progress |
-| 🔐 `Flare-OS` | Android Custom ROM | 🔜 (lel) |
+| 🎮 `Atlas` | External cheat for pubg mobile | ✅ Done |
+| 🔐 `reSecure` | Shell script encryptor | ✅ Done |
+| ⚙ `Delta` | Android tools kernel manager | 🧪 In Progress |
+| 📱 `Flare-OS` | Android Custom ROM | 🔜 (lel) |
 
 ---
 
