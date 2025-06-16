@@ -7,7 +7,7 @@
 
 ### 🧾 About Me
 - 🔭 I’m currently working on: **Custom Android Tools, And Backend website**
-- 🌱 I’m learning: **Backend Programing**, **Low-level System Behavior**, and **Web Developming**
+- 🌱 I’m learning: **Backend & Frontend Programing**, and **Low-level System Behavior**
 - 📫 How to reach me: [Telegram](https://t.me/cementerydrivee)
 - 🧠 Fun fact: i like batman.
 
