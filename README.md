@@ -38,7 +38,7 @@
 | 🎮 `Atlas` | External cheat for pubg mobile | ✅ Done |
 | 🔐 `reSecure` | Shell script encryptor | ✅ Done |
 | ⚙ `Delta` | Android tools kernel manager | 🧪 In Progress |
-| 📱 `Flare-OS` | Android Custom ROM | 🔜 (lel) |
+| 📱 `Flare-OS` | Android Custom ROM | Soon |
 
 ---
 
